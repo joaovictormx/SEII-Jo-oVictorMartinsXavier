@@ -1,0 +1,36 @@
+	1. Paradigma de Programação
+-Programação Procedural: Baseia-se em procedimentos ou funções que operam sobre dados. O foco está nas operações que podem ser realizadas, com uma sequência linear de instruções.
+
+-Programação Orientada a Objetos (POO): A POO se concentra na criação de "objetos", que são instâncias de "classes". Cada objeto contém dados (atributos) e comportamentos (métodos). Em vez de focar nas operações, a POO organiza o software com base nas interações entre objetos.
+
+Diferenças:
+
+-Procedural: Baseada em sequências de instruções que manipulam dados.
+
+-POO: Baseada em objetos que possuem dados e métodos, permitindo maior modularidade e reutilização de código.
+
+	2. Classe e Objeto
+-Classe: Um "molde" ou "blueprint" que define atributos e comportamentos de um objeto.
+
+Objeto: Uma instância de uma classe. Cada objeto tem seus próprios valores de atributos e pode executar os métodos definidos na classe.
+
+	3. Encapsulamento
+-O encapsulamento consiste em restringir o acesso direto aos atributos de um objeto e fornecer métodos (getters e setters) para manipulá-los, protegendo o estado interno do objeto e garantindo integridade e segurança dos dados.
+
+	4. Abstração
+-Abstração envolve ocultar os detalhes complexos de implementação e expor apenas as funcionalidades essenciais. Permite que o usuário interaja com objetos de maneira simplificada, sem se preocupar com a complexidade interna.
+
+	5. Herança
+-A herança permite que uma classe (subclasse) herde atributos e métodos de outra classe (superclasse). Isso promove a reutilização de código e a criação de hierarquias de classes. A subclasse pode estender ou modificar o comportamento da superclasse.
+
+	6. Polimorfismo
+-O polimorfismo permite que objetos de diferentes classes sejam tratados como objetos da mesma classe-base, simplificando o código. Pode ser implementado por meio de métodos sobrecarregados (com diferentes assinaturas) ou sobrescritos (em subclasses).
+
+	7. Como a POO ajuda na construção de soluções de software
+-Modularidade: Cada parte do software pode ser desenvolvida e modificada separadamente.
+
+-Reutilização: Objetos e classes podem ser reutilizados em diferentes partes de um programa ou em diferentes projetos.
+
+-Facilidade de manutenção: Como o código é organizado em objetos e classes, é mais fácil de entender, manter e escalar.
+
+-Segurança: O encapsulamento protege os dados, garantindo que só sejam modificados de maneira controlada.
