@@ -1,0 +1,16 @@
+1.Crie uma pasta chamada 04ExercicioIMC.
+2.Acesse essa pasta usando o terminal: cd 04ExercicioIMC.
+3.No terminal, crie um novo projeto com o comando: dotnet new console.
+4.Crie uma classe com o nome Pessoa.
+5.Na classe Pessoa, defina os atributos peso e altura.
+6.Implemente um método que retorne o valor do IMC, sendo um método do tipo double com a fórmula: peso / (altura * altura).
+7.Desenvolva um método que retorne uma string com a categoria do IMC, seguindo os seguintes critérios:
+IMC < 18.5: "Abaixo do peso"
+IMC < 25: "Peso normal"
+IMC < 30: "Acima do peso"
+IMC < 35: "Obesidade I"
+IMC < 40: "Obesidade II"
+IMC >= 40: "Obesidade III"
+8.Crie um método para exibir a mensagem com o cálculo do IMC e a situação correspondente.
+9.Instancie um objeto da classe Pessoa na classe Program e utilize os métodos criados.
+
